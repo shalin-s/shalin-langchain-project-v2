@@ -1,4 +1,4 @@
-# shalin_langchain_project
+# shalin-langchain-project-v2
 
 DEMO VIDEO (google drive link): https://drive.google.com/file/d/1TKEHCeywgJh-9RSyc6RhZJUbcJCF7wii/view?usp=sharing
 
@@ -24,7 +24,7 @@ For a reviewer who already has a Slack workspace + app set up:
 
 ```bash
 git clone <this repo>
-cd shalin_langchain_project
+cd shalin-langchain-project-v2
 python -m venv .venv
 source .venv/bin/activate            # Windows: .venv/Scripts/activate
 pip install -e .
@@ -48,7 +48,7 @@ If you need to create the Slack workspace/app from scratch, see
 
 ```bash
 git clone <this repo>
-cd shalin_langchain_project
+cd shalin-langchain-project-v2
 python -m venv .venv
 source .venv/bin/activate            # Windows: .venv/Scripts/activate
 pip install -e .
