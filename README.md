@@ -10,7 +10,7 @@ corpus (customer calls, support tickets, internal docs, competitor research
 for a fictional startup called **Northstar Signal**). The bot replies in a
 thread, grounds every answer in the database via 5 tools exposed to a
 LangGraph ReAct agent, and supports multi-turn follow-ups in the same
-thread without needing another `@`-mention.
+thread.
 
 - See [DESIGN.md](./DESIGN.md) for architecture and reasoning.
 - See [`tests/eval_examples.py`](./tests/eval_examples.py) for the agent's
