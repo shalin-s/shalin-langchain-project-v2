@@ -145,7 +145,7 @@ The bot will:
    ```
 2. Reply in the thread with the final answer, tagging you.
 
-Reply to the bot's thread (no `@`-mention needed) to continue the
+Reply to the bot's thread (with `@`-mention) to continue the
 conversation — the LangGraph checkpointer keys state on the Slack
 `thread_ts`, giving multi-turn memory automatically.
 
