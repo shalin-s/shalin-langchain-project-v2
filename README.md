@@ -1,5 +1,7 @@
 # shalin_langchain_project
 
+DEMO VIDEO (google drive link): https://drive.google.com/file/d/1TKEHCeywgJh-9RSyc6RhZJUbcJCF7wii/view?usp=sharing
+
 Slack-based Q&A chatbot over a synthetic B2B SaaS corpus, built as the
 take-home for the LangChain Applied AI Engineer role.
 
